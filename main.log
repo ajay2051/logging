@@ -1,0 +1,5 @@
+ 2023-01-04 10:37:37,315 :: ERROR :: Tried Divide By Zero
+Traceback (most recent call last):
+  File "C:\Users\Ajay Singh\OneDrive\Desktop\SoftechPark_Projects\global-diary-api-service\Global Diary API Service\utils\global_diary_logging_utils\Logging\main.py", line 50, in divide
+    result = x / y
+ZeroDivisionError: division by zero
